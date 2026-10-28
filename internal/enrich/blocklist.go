@@ -53,8 +53,8 @@ var defaultLists = []listSource{
 		category: CategoryAds,
 	},
 	{
-		name:     "urlhaus-malware",
-		url:      "https://urlhaus.abuse.ch/downloads/hostfile/",
+		name:     "netapi-malware",
+		url:      "https://netapi.com/api2/?method=compromised&dataset_type=url&format=hosts",
 		category: CategoryMalware,
 	},
 }

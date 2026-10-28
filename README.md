@@ -940,7 +940,7 @@ in the background on first run; nothing is uploaded in either direction.
 | World outline | Drawing the map | [Natural Earth](https://www.naturalearthdata.com) via [world-atlas](https://github.com/topojson/world-atlas) | Public domain (data); ISC (packaging) |
 | MAC → manufacturer (embedded) | Naming the maker of a device on the Roster | IEEE OUI registry | Public registry |
 | Ad and tracker domains (fetched) | Labelling lookups in Radio Chatter | [StevenBlack/hosts](https://github.com/StevenBlack/hosts) | MIT |
-| Malware domains (fetched) | The `threat_list` rule | [URLhaus](https://urlhaus.abuse.ch) by abuse.ch | CC0 |
+| Malware domains (fetched) | The `threat_list` rule | [NetAPI compromised domains](https://netapi.com/compromised-urls/) | CC BY 4.0 |
 
 **DB-IP requires attribution**, so it is credited in the product itself, on the Watchtower, where the data is
 being used, as well as here. That is a licence obligation and not a courtesy.
